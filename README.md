@@ -52,6 +52,10 @@ EDA involved exploring the sales data to answer key questions, such as;
 
 ## Data analysis 
 
+[Dashboard](EXCEL PROJECT.png) 
+ ![EXCEL PROJECT](https://github.com/OluchiTheAnalyst/EXCEL_PROJECTS/assets/152318870/660e508d-4029-4e73-85b1-10faf2a75ad5)
+
+
 ## Results
 
 The analysis results are summarized as follows;
