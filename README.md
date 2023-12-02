@@ -15,7 +15,7 @@
 
 ## Project Overview
 
-This data analysis project aims to provide insight into the sales performance of an e-commerce over the past year. By analyzing various items and aspect of sales data given by the company, I seek to identify trends to aid the management make strategic decisions for the coming year, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insight into the sales performance of an e-commerce over the past year. By analyzing various items and aspect of sales data, I seek to identify trends to aid the management make strategic decisions for the coming year, and gain a deeper understanding of the company's performance.
 
 ## Data sources
 
